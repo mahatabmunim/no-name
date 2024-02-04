@@ -1,0 +1,64 @@
+*{
+    background-color: antiquewhite;
+}
+
+label{
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.form_x{
+    width: 60%; 
+    margin: 0 auto;
+    border: 2px solid  rgb(168, 150, 126);
+    ;
+
+
+}
+.fast_name{
+    width: 90%;
+    height: 25px;
+    padding: 10px;
+    font-size: 18px;
+    /* text-transform:uppercase; */
+    background-color: rgb(211, 208, 205);
+    border: none;
+    border: 1px solid rgb(90, 89, 87);
+}
+.massages{
+    font-size: 15px;
+    padding: 10px;
+}
+.submit_x{
+    padding: 5px;
+    color: rgb(97, 78, 54);
+    text-transform: capitalize;
+}
+.submit_xx{
+    padding: 5px;
+    color: rgb(45, 45, 42);
+    text-transform: capitalize;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
